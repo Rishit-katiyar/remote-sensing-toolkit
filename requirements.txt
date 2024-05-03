@@ -1,0 +1,17 @@
+requires 'GD', '2.67';               # Example version specification
+requires 'GDAL', '1.11';             # Example version specification
+requires 'AI::MXNet', '1.4';         # Example version specification
+requires 'Math::Matrix', '0.5';      # Example version specification
+requires 'Geo::Proj4', '1.08';       # Example version specification
+requires 'Statistics::R', '0.35';    # Example version specification
+requires 'Web::Simple', '0.025';     # Example version specification
+requires 'Parallel::ForkManager', '2.02'; # Example version specification
+requires 'PDL::Parallel::MPI', '0.07';    # Example version specification
+requires 'Net::Async::HTTP', '0.47';      # Example version specification
+requires 'GPU::DeepLearning', '0.2';       # Example version specification
+requires 'HPC::Cloud', '0.01';             # Example version specification
+requires 'Data::Augmentation', '0.03';      # Example version specification
+requires 'Hyperparameter::Optimization', '0.01'; # Example version specification
+requires 'Geo::Map', '0.12';                 # Example version specification
+requires 'Advanced::Statistics', '0.05';     # Example version specification
+requires 'External::API', '0.2';             # Example version specification
